@@ -1,0 +1,6 @@
+echo "Arithmetic Operation:"
+echo $[(10+10+10+10+10)/5]
+echo "Binay Calculator:"
+s=`echo 10.0+10.0+10.0+10.0+10.0 | bc`
+t=`echo $s/5.0 | bc`
+echo $t
