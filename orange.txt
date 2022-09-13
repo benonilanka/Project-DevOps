@@ -1,0 +1,4 @@
+this is an experiment
+to udnderstand the concept of git
+I am trying new things to make mistakes
+so that I can learn from them
